@@ -32,7 +32,7 @@ const RootLayout = ({ children }) => {
                 borderRadius: "3px",
               }}
             >
-              PH_NEWS PORTAL
+              MT-15 NEWS PORTAL
             </Link>
           </h1>
         </div>
